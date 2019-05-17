@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1035418333827",
+    "firebase_url": "https://todaysalbumapp.firebaseio.com",
+    "project_id": "todaysalbumapp",
+    "storage_bucket": "todaysalbumapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035418333827:android:090a592ce922d483",
+        "android_client_info": {
+          "package_name": "com.example.fluttertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035418333827-15hi7lc5gaas0lpapriq4kr9t0q0pa7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgxkzsKSHFUWRXEg_6pR9jlWksirHQLGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035418333827-15hi7lc5gaas0lpapriq4kr9t0q0pa7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
